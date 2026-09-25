@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Espresso",
+    "description": "Rich and strong coffee with a bold flavor.",
+    "votes": 1
+  },
+  {
+    "id": 2,
+    "name": "Caramel Latte",
+    "description": "Smooth coffee with creamy caramel flavor.",
+    "votes": 8
+  },
+  {
+    "id": 3,
+    "name": "Mocha Delight",
+    "description": "Chocolate flavored coffee with a creamy finish.",
+    "votes": 1
+  },
+  {
+    "id": 4,
+    "name": "Vanilla Cappuccino",
+    "description": "Creamy cappuccino with a sweet vanilla taste.",
+    "votes": 0
+  },
+  {
+    "id": 5,
+    "name": "Hazelnut Coffee",
+    "description": "Aromatic coffee with a delicious hazelnut flavor.",
+    "votes": 0
+  },
+  {
+    "id": 6,
+    "name": "Cold Brew",
+    "description": "Smooth and refreshing coffee served cold.",
+    "votes": 0
+  }
+]
